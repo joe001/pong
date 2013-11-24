@@ -1,4 +1,6 @@
  
+ //Perdedor funciones
+ 
  void perdedor(){
                   
  if(cont1>cont2){
